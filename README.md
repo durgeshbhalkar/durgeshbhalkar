@@ -1,9 +1,15 @@
 
+<div align="center"> <img src="Durgesh Banner.png"> </div>
+
 ### <h1 align="center">Hi 👋, I'm Durgesh Bhalkar</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Java+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%92%AA;Software+Engineer+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
 </p>
+
+
+
 
 ---
 
