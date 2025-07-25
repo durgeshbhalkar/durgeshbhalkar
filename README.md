@@ -94,7 +94,11 @@
 
 ---
 
-_Always learning. Always building. Open to collaborations and backend internship opportunities!_
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+%F0%9F%A4%97;Feel+free+to+connect+or+collaborate!" alt="Thanks"/>
+</p>
+
+
 
 
 
